@@ -1,49 +1,100 @@
-# Violet Vision
+# Portfolio Frontend - Patricia Isabel Callizaya Siñani
 
-This is a website template built using [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/), designed to be a fast and efficient starting point for modern web projects.
+🚀 **Portafolio profesional de Desarrollo Frontend** especializado en React, Next.js y sistemas de auditoría.
 
-[LemonLabs](https://lemonlabs.es)
+## 📋 Sobre Mí
 
-## Desktop
-![](https://i.ibb.co/Phjg5Dc/descarga.jpg)
+Soy una desarrolladora Frontend con experiencia en auditoría de sistemas, combinando una visión analítica con habilidades técnicas modernas. Busco oportunidades de crecimiento profesional aplicando mis conocimientos en React y Next.js.
 
-## Mobile
-![](https://i.ibb.co/SXrGrvw/image.png)
+## 🛠️ Tecnologías y Habilidades
 
-## Features
+- **Frontend**: React.js, Next.js, JavaScript, HTML5, CSS3
+- **Estilos**: TailwindCSS, Responsive Design
+- **Herramientas**: Git, GitHub, IA Asistida (Prompting)
+- **Experiencia**: Auditoría de sistemas, análisis de procesos
 
-- **Astro**: A modern framework for building faster websites.
-- **TailwindCSS**: A utility-first CSS framework for rapid and responsive design.
+## 🎯 Proyectos Destacados
 
-## Installation
+### Audit System
+Sistema web completo para gestión y reporte de auditorías con las siguientes funcionalidades:
+- Pantalla de inicio intuitiva
+- Historial de auditorías detallado
+- Generador automático de reportes
 
-To get started with this template, follow these steps:
 
-1. Clone the repository:
+
+## 🌟 Ventajas Competitivas
+
+- ✅ **Conocimiento sólido** en React y Next.js
+- ✅ **Buen nivel en prompting** para asistencia con IA en desarrollo
+- ✅ **Habilidades blandas**: comunicación, proactividad, responsabilidad
+- ✅ **Visión analítica** gracias a mi experiencia en auditoría
+- ✅ **Disponibilidad completa** para oportunidades remotas
+
+## 📂 Estructura del Proyecto
+
+```
+portafolio/
+├── src/
+│   ├── assets/          # Imágenes y recursos estáticos
+│   │   └── auditoria/   # Capturas del sistema de auditoría
+│   ├── layouts/         # Layouts de Astro
+│   └── pages/           # Páginas principales
+├── public/              # Archivos públicos
+└── dist/               # Build de producción
+```
+
+## 🚀 Instalación y Ejecución
+
+### Prerrequisitos
+- Node.js 18+ 
+- npm o yarn
+
+### Pasos para ejecutar localmente
+
+1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/bitc0de/violetVision
+   git clone https://github.com/paty-cali/portafolio.git
+   cd portafolio
    ```
 
-2. Install dependencies:
-```bash
-npm install
-```
+2. **Instalar dependencias**:
+   ```bash
+   npm install
+   ```
 
-3. Start the development server:
-```bash
-npm run dev
-```
+3. **Iniciar servidor de desarrollo**:
+   ```bash
+   npm run dev
+   ```
 
-Visit http://localhost:4321 in your browser to view the site
+4. **Visitar el sitio**:
+   Abre [http://localhost:4321](http://localhost:4321) en tu navegador
 
-## Build and Deployment
-
-To build your site for production, run:
-
+### Para producción
 ```bash
 npm run build
 ```
-This will generate a static version of your site in the dist/ directory, ready to be deployed on any web hosting service.
 
-## Contributing
-Contributions are always welcome. If you have ideas for improving the project or find any issues, feel free to create an issue or a pull request.
+## 📱 Características Técnicas
+
+- **Framework**: Astro.js para renderizado optimizado
+- **Estilos**: TailwindCSS con diseño responsive
+- **Performance**: Sitio ultra-rápido con mínimos recursos
+- **SEO**: Optimizado para motores de búsqueda
+- **Responsive**: Perfecta visualización en todos los dispositivos
+
+## 🔗 Contacto y Redes
+
+- 📧 **Email**: [contacto@email.com](mailto:contacto@email.com)
+- 💼 **LinkedIn**: [Perfil Profesional](https://linkedin.com)
+- 🐙 **GitHub**: [Repositorios](https://github.com/paty-cali)
+- 🌐 **Portafolio Online**: [Ver en vivo](#) *(desplegar próximamente)*
+
+## 📜 Licencia
+
+Este proyecto está bajo licencia MIT - puedes usarlo como referencia para tu propio portafolio.
+
+---
+
+**🎯 Disponible para oportunidades y desafíos Frontend**
