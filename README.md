@@ -8,7 +8,7 @@ Soy una desarrolladora Frontend con experiencia en auditoría de sistemas, combi
 
 ## 🛠️ Tecnologías y Habilidades
 
-- **Frontend**: React.js, Next.js, JavaScript, HTML5, CSS3
+- **Frontend**: React.js, Next.js, Vue.js, HTML, CSS
 - **Estilos**: TailwindCSS, Responsive Design
 - **Herramientas**: Git, GitHub, IA Asistida (Prompting)
 - **Experiencia**: Auditoría de sistemas, análisis de procesos
